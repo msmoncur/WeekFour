@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+.stars {
+ width:205px;
+ position:absolute;
+ left:10px;
+ top:84px;
+}
+
+table{
+    width: 550px;
+    height: 70px;
+}
+
+.red{
+    background-color: red; 
+}
+
+.white{
+    background-color:white;
+}
+
+.starbox{
+    height:70px;
+}
+
+tr{
+  height:20px;
+}
+
